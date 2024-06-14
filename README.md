@@ -2,9 +2,13 @@
 
 <img width="100%" align="center" src="https://media.licdn.com/dms/image/D4D16AQFzNn1S8cv2cA/profile-displaybackgroundimage-shrink_350_1400/0/1715998728202?e=1723680000&v=beta&t=rQ9QZb4Jhj6-Rp_BoylQaINjHMjsOyMlUSozkG_6uZU" />
 
-<h5 align="center">I am success, and I am a Software Engineer | Django Developer 
+<h3>I am success, and I am a Software Engineer | Django Developer 
 Currently focused on building proficient and scalable Restful APIs using the Django Rest Framework built in Python with up-to-date architecture</h5><br>
+<br><hr><br>
 
+<h2 align="left">Connect with Me</h2>
+
+<p align='left'><a href="https://github.com/suskidee"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="https://www.linkedin.com/in/masodi"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a><a href="https://x.com/success_masodi"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/twitter.svg" width="40" height='40' title="twitter"/></a></p>
 <h2 align="left">Some Facts About Me</h2>
 
 - 📄 Know about my experiences *[https://flowcv.com/resume/rsotg8ppmj](https://flowcv.com/resume/rsotg8ppmj)*
@@ -35,12 +39,3 @@ Currently focused on building proficient and scalable Restful APIs using the Dja
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
 
-<br><hr><br>
-
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=suskidee&show_icons=true&locale=en" />
-
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suskidee&" />
-
-<h2 align="left">Connect with Me</h2>
-
-<p align='left'><a href="https://github.com/suskidee"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="https://www.linkedin.com/in/masodi"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a></p>
