@@ -9,15 +9,11 @@ Currently focused on building proficient and scalable Restful APIs using the Dja
 
 - 📄 Know about my experiences *[https://flowcv.com/resume/rsotg8ppmj](https://flowcv.com/resume/rsotg8ppmj)*
 
-- ⚡ Fun fact: **I**
-
 <h2 align="left">Skillset</h2>
 
 <h3 align="left">Programming Languages:</h3>
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/></p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=suskidee&show_icons=true&locale=en&layout=compact" />
 
 <h3 align="left">Frontend Development:</h3>
 
@@ -41,13 +37,9 @@ Currently focused on building proficient and scalable Restful APIs using the Dja
 
 <br><hr><br>
 
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=suskidee" />
-
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=suskidee&show_icons=true&locale=en" />
 
 <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suskidee&" />
-
-<img align="left" src="https://komarev.com/ghpvc/?username=suskidee&label=Profile%20views&color=0e75b6&style=flat" />
 
 <h2 align="left">Connect with Me</h2>
 
