@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hello World! 👋 I'm Masodi Success</h1>
 
-<!--
-**suskidee/suskidee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" align="center" src="https://media.licdn.com/dms/image/D4D16AQFzNn1S8cv2cA/profile-displaybackgroundimage-shrink_350_1400/0/1715998728202?e=1723680000&v=beta&t=rQ9QZb4Jhj6-Rp_BoylQaINjHMjsOyMlUSozkG_6uZU" />
 
-Here are some ideas to get you started:
+<h5 align="center">I am success, and I am a Software Engineer | Django Developer 
+Currently focused on building proficient and scalable Restful APIs using the Django Rest Framework built in Python with up-to-date architecture</h5><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Some Facts About Me</h2>
+
+- 📄 Know about my experiences *[https://flowcv.com/resume/rsotg8ppmj](https://flowcv.com/resume/rsotg8ppmj)*
+
+- ⚡ Fun fact: **I**
+
+<h2 align="left">Skillset</h2>
+
+<h3 align="left">Programming Languages:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/></p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=suskidee&show_icons=true&locale=en&layout=compact" />
+
+<h3 align="left">Frontend Development:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/bootstrap.svg" width='40' height='40' title='bootstrap'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/html.svg" width='40' height='40' title='html'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/FrontendDevelopment/css.svg" width='40' height='40' title='css'/></p>
+
+<h3 align="left">Database Management:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/mysql.svg" width='40' height='40' title='mysql'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Database/postgresql.svg" width='40' height='40' title='postgresql'/></p>
+
+<h3 align="left">Devops:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/bash.svg" width='40' height='40' title='bash'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width='40' height='40' title='docker'/></p>
+
+<h3 align="left">Frameworks:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Framework/django.svg" width='40' height='40' title='django'/></p>
+
+<h3 align="left">Others:</h3>
+
+<p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/git.svg" width='40' height='40' title='git'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Other/linux.svg" width='40' height='40' title='linux'/></p>
+
+<br><hr><br>
+
+<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=suskidee" />
+
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=suskidee&show_icons=true&locale=en" />
+
+<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suskidee&" />
+
+<img align="left" src="https://komarev.com/ghpvc/?username=suskidee&label=Profile%20views&color=0e75b6&style=flat" />
+
+<h2 align="left">Connect with Me</h2>
+
+<p align='left'><a href="https://github.com/suskidee"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="https://www.linkedin.com/in/masodi"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a></p>
