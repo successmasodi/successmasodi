@@ -1,4 +1,4 @@
-<img width="100%" align="center" src="https://media.licdn.com/dms/image/D4D16AQFzNn1S8cv2cA/profile-displaybackgroundimage-shrink_350_1400/0/1715998728202?e=1723680000&v=beta&t=rQ9QZb4Jhj6-Rp_BoylQaINjHMjsOyMlUSozkG_6uZU" />
+<img width="100%" align="center" src="https://i.pinimg.com/736x/7a/f3/3d/7af33d4dc944ef96c0a58f74b0553d8c.jpg" />
 <h1 align="center">Hello World! 👋 I'm Masodi Success</h1>
 
 <h3>I am Success, and I am a Software Engineer | Django Developer 
