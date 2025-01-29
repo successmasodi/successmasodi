@@ -1,4 +1,4 @@
-<img width="100%" align="center" src="https://i.pinimg.com/736x/7a/f3/3d/7af33d4dc944ef96c0a58f74b0553d8c.jpg" />
+<img width="10%" align="center" src="https://i.pinimg.com/736x/7a/f3/3d/7af33d4dc944ef96c0a58f74b0553d8c.jpg" />
 <h1 align="center">Hello World! 👋 I'm Masodi Success</h1>
 
 <h3>I am Success, and I am a Software Engineer | Django Developer 
