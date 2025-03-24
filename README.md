@@ -81,10 +81,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/suskidee">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=suskidee&show_icons=true&theme=dark&hide_border=true" />
-    <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=suskidee&theme=dark&hide_border=true" />
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suskidee&layout=compact&theme=dark&hide_border=true" />
+  <a href="https://github.com/successmasodi">
+    <img width="32%" src="https://github-readme-stats.vercel.app/api?username=successmasodi&show_icons=true&theme=dark&hide_border=true" />
+    <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=successmasodi&theme=dark&hide_border=true" />
+    <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=successmasodi&layout=compact&theme=dark&hide_border=true" />
   </a>
 </div>
 
@@ -92,6 +92,6 @@
 
 ## 📌 Recent Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suskidee&theme=react-dark&hide_border=true&area=true)](https://github.com/suskidee)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=successmasodi&theme=react-dark&hide_border=true&area=true)](https://github.com/suskidee)
 
 ---
